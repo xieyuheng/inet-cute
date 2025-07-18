@@ -1,5 +1,5 @@
-import { Repls } from "@cicada-lang/framework"
 import { Command, CommandRunner } from "@xieyuheng/command-line"
+import { Repls } from "@xieyuheng/framework"
 import Path from "path"
 import { app } from "../../app/index.ts"
 

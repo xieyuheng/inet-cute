@@ -1,4 +1,4 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 
 export function variable_names_matcher(tree: pt.Tree): Array<string> {
   return pt.matcher({

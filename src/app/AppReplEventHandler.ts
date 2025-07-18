@@ -1,8 +1,8 @@
 import {
   ReplEventHandler,
   type ReplEvent,
-} from "@cicada-lang/framework/lib/repl/index.js"
-import { ParsingError } from "@cicada-lang/partech"
+} from "@xieyuheng/framework/lib/repl/index.js"
+import { ParsingError } from "@xieyuheng/partech"
 import fs from "fs"
 import { relative } from "node:path"
 import process from "process"

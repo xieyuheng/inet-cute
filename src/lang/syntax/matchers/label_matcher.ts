@@ -1,4 +1,4 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 
 export function label_matcher(tree: pt.Tree): string {
   return pt.matcher({

@@ -1,4 +1,4 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 import { type ImportBinding } from "../../import/ImportBinding.ts"
 import * as matchers from "../matchers/index.ts"
 

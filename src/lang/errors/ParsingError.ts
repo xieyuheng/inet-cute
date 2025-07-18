@@ -1,1 +1,1 @@
-export { ParsingError } from "@cicada-lang/partech"
+export { ParsingError } from "@xieyuheng/partech"

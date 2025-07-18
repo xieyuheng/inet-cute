@@ -1,11 +1,11 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 import * as grammars from "./grammars/index.ts"
 import * as matchers from "./matchers/index.ts"
 
 /**
 
    TODO We should use `camelCase` naming convention,
-   but "@cicada-lang/partech" is using `snake_case`,
+   but "@xieyuheng/partech" is using `snake_case`,
    we follow the library for now (will change eventually).
 
 **/

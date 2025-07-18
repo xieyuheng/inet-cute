@@ -1,5 +1,5 @@
-import { ParsingError } from "@cicada-lang/partech"
 import { Command, CommandRunner } from "@xieyuheng/command-line"
+import { ParsingError } from "@xieyuheng/partech"
 import ty from "@xieyuheng/ty"
 import fs from "node:fs"
 import { relative } from "node:path"

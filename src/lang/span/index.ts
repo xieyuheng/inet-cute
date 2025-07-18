@@ -1,1 +1,1 @@
-export { type Span } from "@cicada-lang/partech"
+export { type Span } from "@xieyuheng/partech"

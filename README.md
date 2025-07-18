@@ -13,7 +13,7 @@ An implementation of [interaction nets](https://en.wikipedia.org/wiki/Interactio
 Install it by the following command:
 
 ```sh
-npm install --global @cicada-lang/inet-cute
+npm install --global @xieyuheng/inet-cute
 ```
 
 The command-line program is called `inet-cute`.
@@ -208,10 +208,10 @@ npm run test         # Run test
 
 ## Implementations
 
-- [inet-cute](https://github.com/cicada-lang/inet-cute)
-- [inet-js](https://github.com/cicada-lang/inet-js)
-- [inet-forth](https://github.com/cicada-lang/inet-forth)
-- [inet-lisp](https://github.com/cicada-lang/inet-lisp)
+- [inet-cute](https://github.com/xieyuheng/inet-cute)
+- [inet-js](https://github.com/xieyuheng/inet-js)
+- [inet-forth](https://github.com/xieyuheng/inet-forth)
+- [inet-lisp](https://github.com/xieyuheng/inet-lisp)
 
 ## References
 
